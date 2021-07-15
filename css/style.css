@@ -1,0 +1,9 @@
+body {
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 20px !important;
+    background: rgb(89,129,187);
+    background: -moz-linear-gradient(148deg, rgba(89,129,187,1) 11%, rgba(131,107,164,1) 49%, rgba(195,70,135,1) 94%);
+    background: -webkit-linear-gradient(148deg, rgba(89,129,187,1) 11%, rgba(131,107,164,1) 49%, rgba(195,70,135,1) 94%);
+    background: linear-gradient(148deg, rgba(89,129,187,1) 11%, rgba(131,107,164,1) 49%, rgba(195,70,135,1) 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5981bb",endColorstr="#c34687",GradientType=1);
+}
