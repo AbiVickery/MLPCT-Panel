@@ -6,6 +6,9 @@ body {
     background: -webkit-linear-gradient(148deg, rgba(89,129,187,1) 11%, rgba(131,107,164,1) 49%, rgba(195,70,135,1) 94%);
     background: linear-gradient(148deg, rgba(89,129,187,1) 11%, rgba(131,107,164,1) 49%, rgba(195,70,135,1) 94%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5981bb",endColorstr="#c34687",GradientType=1);
+
+    /* background: rgb(232,153,189);
+    background: linear-gradient(135deg, rgba(232,153,189,1) 0%, rgba(218,60,60,1) 52%, rgba(64,25,82,1) 100%); */
 }
 
 hr {
