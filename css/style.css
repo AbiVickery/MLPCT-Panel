@@ -22,6 +22,24 @@ hr {
     /* size: 25px; */
 }
 
+#sombra {
+    width: 404px;
+    height: 479px;
+    /* size: 25px;  */
+}
+
+#celestia {
+    width: 483px;
+    height: 381px;
+    /* size: 25px; */
+}
+
+#fluttershy {
+    width: 403px;
+    height: 404px;
+    /* size: 25px; */
+}
+
 #marph {
     width: 450px;
     height: 450px; 
@@ -46,4 +64,17 @@ hr {
     /* width: 382px;
     height: 255px; */
     size: 25px;
+}
+
+#Goken {
+    width: 383px;
+    height: 541px;
+    box-shadow: saddlebrown;
+    /* size: 25px; */
+}
+
+#gifpk {
+    width: 431px;
+    height: 323px;
+    /* size: 25px; */
 }
